@@ -1,0 +1,13 @@
+name: V3.6 REAL <5W
+on: [push]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install deps
+        run: pip install numpy
+      - name: REAL <5W Embodied Check
+        run: python ehk_scci_v36_embodied.py && sha256sum --check --strict SHA256SUMS
+      - name: Holli Daye Extension Check
+        run: python catalyst_codec_rubric.py

@@ -1,0 +1,7 @@
+{
+  "title": "EHK-SCCI V3.6 Catalyst Embodied Extension - Holli Daye Trajectory Intelligence",
+  "creators": [{"name": "KAYAD, NOUR Mohamed", "orcid": "0009-0002-1443-7599"}],
+  "description": "V3.6 REAL <5W Termux ARM64 0/20 FAIL 23.9ms OR -0.411 Base DOI 10.5281/zenodo.23445576 Extends Holli Daye Catalyst White Paper (Trajectory Intelligence, Failure-to-Env, Multi-Species Fusion, Swarm Cognition). LAMO Artemis 72e France 2030 EDF/Quandela/CNRS",
+  "related_identifiers": [{"identifier": "10.5281/zenodo.23445576", "relation": "isNewVersionOf"}],
+  "keywords": ["EHK-SCCI", "Holli Daye", "Trajectory Intelligence", "Catalyst", "REAL <5W", "Artemis", "France 2030"]
+}
