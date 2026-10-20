@@ -1,7 +1,12 @@
-# EHK-SCCI V3.6 - Catalyst Embodied Extension
-Author: NOUR KAYAD Mohamed ORCID 0009-0002-1443-7599 170+ DOI Patent Open
-Implements: Holli Daye Catalyst White Paper Extension (Trajectory Intelligence, Failure-to-Env, Multi-Species Fusion, Swarm Cognition, Raw Codec & Rubric)
-Base: V3.5 REAL <5W Termux ARM64 DOI 10.5281/zenodo.23445576 0/20 FAIL 23.9ms OR -0.411
-Does NOT overwrite: 19688598, 21941641, 23445576, 23467555
-Félicitation pour LAMO - Pôle Position Mondiale - M2ISDA 2027 - Artemis 72e Djibouti - France 2030 OECQ EDF/Quandela/CNRS
-Termux: python ehk_scci_v36_embodied.py && sha256sum --check --strict SHA256SUMS
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23517983.svg)](https://doi.org/10.5281/zenodo.23517983)
+
+# EHK-SCCI V3.6.1 - Catalyst Embodied Extension REAL <5W
+Author: NOUR KAYAD Mohamed - ORCID: 0009-0000-3732-2886
+Base: V3.5 REAL <5W Termux ARM64 - DOI 10.5281/zenodo.23445576
+New: V3.6.1 REAL <5W - DOI 10.5281/zenodo.23517983 - 0/20 FAIL | 23.9ms | OR -0.411
+
+Catalyst Embodied Extension for Djibouti-Paris.
+Félicitations LAMO - Pôle Positif - Artemis 72e France 2030
+
+### Run on Termux
+python ehk_scci_v36_embodied.py
