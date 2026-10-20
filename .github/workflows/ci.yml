@@ -1,0 +1,8 @@
+name: V3.6 REAL
+on: [push]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+            - uses: actions/checkout@v4
+            - run: pip install numpy && python ehk_scci_v36_embodied.py

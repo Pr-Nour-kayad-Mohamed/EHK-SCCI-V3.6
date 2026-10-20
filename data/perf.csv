@@ -1,0 +1,5 @@
+metric,value,doi_ref
+median_ms,23.9,23445576
+fail,0/20,23445576
+or,-0.411,23445576
+power,<5W Termux ARM64,23445576
